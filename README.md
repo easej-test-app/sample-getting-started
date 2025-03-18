@@ -106,4 +106,3 @@ mvnw failsafe:integration-test
 
 To view the test results, look at the console output or look under 
 directory  `target/failsafe-reports`
-
